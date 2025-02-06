@@ -10,11 +10,13 @@ Application for Map-based Pathfinding
 Allows users to define locations on a map and create connections between them.
 Users can save/load maps, display paths, and modify connections.
 Implemented using JavaFX for graphical interaction.
+
 Features:
 Graph-based representation of locations and routes.
 Pathfinding functionality using depth-first search (DFS).
 Interactive GUI for creating, modifying, and visualizing the graph.
 Supports saving/loading maps in a predefined text format.
+
 How to Run:
 Open the Java project.
 Run the JavaFX-based application to interact with the map.
